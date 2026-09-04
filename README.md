@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Shafiya 👋
 
-<!--
-**shafiyafathima/Shafiyafathima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | AWS | Terraform | CI/CD | Cloud Automation
 
-Here are some ideas to get you started:
+☁️ DevOps Engineer with experience in AWS & Cloud Infrastructure
+🏗️ Hands-on experience with Terraform & Infrastructure as Code (IaC)
+🔄 Experience with CI/CD, Jenkins, Git & GitHub
+🖥️ Experience in Windows Server & AWS EC2 instance administration
+🔧 Worked with Amazon CloudWatch, Grafana, and AWS infrastructure monitoring
+☁️ Interested in Cloud Automation, DevOps & Infrastructure Engineering
+📚 Continuously improving my skills in DevOps and Cloud technologies
+📫 How to reach me shafiyaf757@gmail.com
+😄 Pronouns: She/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##🛠️ Technologies & Tools
+• ☁️ Cloud: AWS
+• 🏗️ Infrastructure as Code: Terraform
+• 🔄 CI/CD: Jenkins
+• 📂 Version Control: Git, GitHub
+• 🖥️Infrastructure: AWS EC2, Windows Server
+• 📊 Monitoring: Amazon CloudWatch, Grafana
+• 💻 Programming: Python
+• 🗄️ Database: MySQL
+
+🎯 DevOps Skills
+AWS | Terraform | Git | GitHub | Jenkins | CI/CD | Infrastructure as Code | Cloud Automation | Monitoring
