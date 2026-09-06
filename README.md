@@ -21,7 +21,9 @@
 😄 Pronouns: She/her
 
 
+
 ##🛠️ Technologies & Tools
+
 • ☁️ Cloud: AWS
 
 • 🏗️ Infrastructure as Code: Terraform
@@ -38,5 +40,7 @@
 
 • 🗄️ Database: MySQL
 
+
 🎯 DevOps Skills
+
 AWS | Terraform | Git | GitHub | Jenkins | CI/CD | Infrastructure as Code | Cloud Automation | Monitoring
